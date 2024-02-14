@@ -100,8 +100,7 @@
             font-size: 32px;
             line-height: 1.18;
             opacity: 0;
-            transform: translate3d(20px, 0, 0);
-            will-change: transform, opacity;
+            will-change: opacity;
             animation: titles 16s ease-in-out infinite;
         }
         .banner__title:first-of-type {
@@ -204,8 +203,7 @@
             font-size: 32px;
             line-height: 1.18;
             opacity: 0;
-            transform: translate3d(15px, 0, 0);
-            will-change: transform, opacity;
+            will-change: opacity;
             animation: titles 16s ease-in-out infinite;
         }
         .bannerMd__title:first-of-type {
@@ -309,8 +307,7 @@
             line-height: 1.18;
             text-align: center;
             opacity: 0;
-            transform: translate3d(20px, 0, 0);
-            will-change: transform, opacity;
+            will-change: opacity;
             animation: titles 16s ease-in-out infinite;
         }
         .bannerSm__title:first-of-type {
@@ -365,17 +362,14 @@
         }
         
         @keyframes titles {
-            0%, 21% {
+            2%, 23% {
                 opacity: 1;
-                transform: translate3d(0, 0, 0);
             }
             25%, 96% {
                 opacity: 0;
-                transform: translate3d(-20px, 0, 0);
             }
             100% {
                 opacity: 0;
-                transform: translate3d(20px, 0, 0);
             }
         }
 
