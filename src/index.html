@@ -24,6 +24,17 @@
         a {
             text-decoration: none;
         }
+
+
+        .wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 30px;
+        }
+
+
+        /* Desktop */
         .banner {
             position: relative;
             display: flex;
@@ -31,6 +42,7 @@
             height: 250px;
             font-family: Arial, Helvetica, sans-serif;
             border: 1px solid #000;
+            background-color: #fff;
         }
         .banner__credits {
             position: absolute;
@@ -125,6 +137,219 @@
             right: 30px;
             width: 185px;
         }
+
+        /* Middleboard */
+        .bannerMd {
+            position: relative;
+            display: flex;
+            width: 600px;
+            height: 250px;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 1px solid #000;
+            background-color: #fff;
+        }
+        .bannerMd__credits {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            max-width: 175px;
+            padding: 10px 10px 9px;
+            color: #fff;
+            font-size: 10px;
+            line-height: 1.2;
+            background-color: #00000080;
+            z-index: 1;
+        }
+        .bannerMd__picture {
+            width: 242px;
+            min-width: 242px;
+            height: 248px;
+            background-color: #f2f4f7;
+            overflow: hidden;
+        }
+        .bannerMd__slider {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            will-change: transform;
+            animation: slide 16s ease-in-out infinite;
+        }
+        .bannerMd__image {
+            width: 100%;
+            min-width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .bannerMd__info {
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            width: 354px;
+            padding: 30px 16px 20px;
+            background: url('https://www.ekodar.ru/images/banners/kom/background-md.jpg') 50% 50%/cover no-repeat;
+        }
+        .bannerMd__titles {
+            position: relative;
+        }
+        .bannerMd__title {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            min-width: 100%;
+            padding-right: 20px;
+            color: #2F517C;
+            font-size: 32px;
+            line-height: 1.18;
+            opacity: 0;
+            transform: translate3d(15px, 0, 0);
+            will-change: transform, opacity;
+            animation: titles 16s ease-in-out infinite;
+        }
+        .bannerMd__title:first-of-type {
+            animation-delay: 0;
+        }
+        .bannerMd__title:nth-of-type(2) {
+            animation-delay: 4s;
+        }
+        .bannerMd__title:nth-of-type(3) {
+            animation-delay: 8s;
+        }
+        .bannerMd__title:last-of-type {
+            animation-delay: 12s;
+        }
+        .bannerMd__footer {
+            align-self: flex-start;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            width: 100%;
+        }
+        .bannerMd__button {
+            margin-right: 20px;
+            padding: 16px 20px;
+            border-radius: 6px;
+            color: #fff;
+            font-size: 16px;
+            text-align: center;
+            line-height: 1;
+            background-color: #2F517C;
+        }
+        .bannerMd__icon {
+            width: 131px;
+        }
+
+
+        /* Aside */
+        .bannerSm {
+            position: relative;
+            display: block;
+            width: 300px;
+            height: 600px;
+            font-family: Arial, Helvetica, sans-serif;
+            border: 1px solid #000;
+            background-color: #fff;
+        }
+        .bannerSm__credits {
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            max-width: 175px;
+            padding: 10px 10px 9px;
+            color: #fff;
+            font-size: 10px;
+            line-height: 1.2;
+            background-color: #00000080;
+            z-index: 1;
+        }
+        .bannerSm__picture {
+            width: 298px;
+            height: 250px;
+            background-color: #f2f4f7;
+            overflow: hidden;
+        }
+        .bannerSm__slider {
+            display: flex;
+            width: 100%;
+            height: 100%;
+            will-change: transform;
+            animation: slide 16s ease-in-out infinite;
+        }
+        .bannerSm__image {
+            width: 100%;
+            min-width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        .bannerSm__info {
+            display: flex;
+            flex-direction: column;
+            height: 348px;
+            padding: 20px 0 0;
+            background: url('https://www.ekodar.ru/images/banners/kom/background-sm.jpg') 50% 0%/contain no-repeat;
+        }
+        .bannerSm__logo {
+            width: 185px;
+            margin: 0 auto;
+        }
+        .bannerSm__titles {
+            position: relative;
+            margin-top: 30px;
+        }
+        .bannerSm__title {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            min-width: 100%;
+            padding: 0 10px;
+            color: #2F517C;
+            font-size: 32px;
+            line-height: 1.18;
+            text-align: center;
+            opacity: 0;
+            transform: translate3d(20px, 0, 0);
+            will-change: transform, opacity;
+            animation: titles 16s ease-in-out infinite;
+        }
+        .bannerSm__title:first-of-type {
+            animation-delay: 0;
+        }
+        .bannerSm__title:nth-of-type(2) {
+            animation-delay: 4s;
+        }
+        .bannerSm__title:nth-of-type(3) {
+            animation-delay: 8s;
+        }
+        .bannerSm__title:last-of-type {
+            animation-delay: 12s;
+        }
+        .bannerSm__footer {
+            display: flex;
+            align-items: center;
+            margin-top: auto;
+            padding: 0 30px 20px;
+        }
+        .bannerSm__button {
+            align-self: flex-start;
+            width: 124px;
+            min-width: 124px;
+            padding: 16px 20px;
+            margin-right: 13px;
+            border-radius: 6px;
+            color: #fff;
+            font-size: 16px;
+            text-align: center;
+            line-height: 1;
+            background-color: #2F517C;
+        }
+        .bannerSm__icon {
+            width: 103px;
+            min-width: 103px;
+        }
+
+
         @keyframes slide {
             0%, 21%, 100% {
                 transform: translate3d(calc(100% * 0), 0, 0);
@@ -141,10 +366,8 @@
         }
         @keyframes titles {
             0%, 21% {
-                transform: translate3d(0, 0, 0);
-            }
-            2%, 23% {
                 opacity: 1;
+                transform: translate3d(0, 0, 0);
             }
             25%, 96% {
                 opacity: 0;
@@ -158,30 +381,87 @@
     </style>
 </head>
 <body>
-    <a href="https://www.ekodar.ru/" target="_blank" class="banner">
-        <div class="banner__credits">
-            РЕКЛАМА, ООО &laquo;МВК ЭКОДАР&raquo;
-            ИНН 7728607072
-        </div>
-        <div class="banner__picture">
-            <div class="banner__slider">
-                <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-01.jpg" alt="Фото монтажа">
-                <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-02.jpg" alt="Фото монтажа">
-                <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-03.jpg" alt="Фото монтажа">
-                <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-04.jpg" alt="Фото монтажа">
+    <div class="wrapper">
+        <a href="https://www.ekodar.ru/" target="_blank" class="banner">
+            <div class="banner__credits">
+                РЕКЛАМА, ООО &laquo;МВК ЭКОДАР&raquo;
+                ИНН 7728607072
             </div>
-        </div>
-        <div class="banner__info">
-            <div class="banner__titles">
-                <div class="banner__title">Очистка воды в&nbsp;частном доме</div>
-                <div class="banner__title">Анализ воды из&nbsp;скважины</div>
-                <div class="banner__title">Питьевые фильтры на&nbsp;кухню</div>
-                <div class="banner__title">Анализ воды из&nbsp;скважины</div>
+            <div class="banner__picture">
+                <div class="banner__slider">
+                    <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-01.jpg" alt="Фото монтажа">
+                    <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-02.jpg" alt="Фото монтажа">
+                    <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-03.jpg" alt="Фото монтажа">
+                    <img class="banner__image" src="https://www.ekodar.ru/images/banners/kom/slide-04.jpg" alt="Фото монтажа">
+                </div>
             </div>
-            <div class="banner__button">Подробнее</div>
-            <img class="banner__icon" src="https://www.ekodar.ru/images/banners/kom/svm.svg">
-            <img class="banner__icon" src="https://www.ekodar.ru/images/banners/kom/ekodar.svg">
-        </div>
-    </a>
+            <div class="banner__info">
+                <div class="banner__titles">
+                    <div class="banner__title">Очистка воды в&nbsp;частном доме</div>
+                    <div class="banner__title">Анализ воды из&nbsp;скважины</div>
+                    <div class="banner__title">Питьевые фильтры на&nbsp;кухню</div>
+                    <div class="banner__title">Анализ воды из&nbsp;скважины</div>
+                </div>
+                <div class="banner__button">Подробнее</div>
+                <img class="banner__icon" src="https://www.ekodar.ru/images/banners/kom/svm.svg">
+                <img class="banner__icon" src="https://www.ekodar.ru/images/banners/kom/ekodar.svg">
+            </div>
+        </a>
+        <br>
+        <a href="https://www.ekodar.ru/" target="_blank" class="bannerMd">
+            <div class="bannerMd__credits">
+                РЕКЛАМА, ООО &laquo;МВК ЭКОДАР&raquo;
+                ИНН 7728607072
+            </div>
+            <div class="bannerMd__picture">
+                <div class="bannerMd__slider">
+                    <img class="bannerMd__image" src="https://www.ekodar.ru/images/banners/kom/slide-md-01.jpg" alt="Фото монтажа">
+                    <img class="bannerMd__image" src="https://www.ekodar.ru/images/banners/kom/slide-md-02.jpg" alt="Фото монтажа">
+                    <img class="bannerMd__image" src="https://www.ekodar.ru/images/banners/kom/slide-md-03.jpg" alt="Фото монтажа">
+                    <img class="bannerMd__image" src="https://www.ekodar.ru/images/banners/kom/slide-md-04.jpg" alt="Фото монтажа">
+                </div>
+            </div>
+            <div class="bannerMd__info">
+                <div class="bannerMd__titles">
+                    <div class="bannerMd__title">Очистка воды в&nbsp;частном доме</div>
+                    <div class="bannerMd__title">Анализ воды из&nbsp;скважины</div>
+                    <div class="bannerMd__title">Питьевые фильтры на&nbsp;кухню</div>
+                    <div class="bannerMd__title">Анализ воды из&nbsp;скважины</div>
+                </div>
+                <div class="bannerMd__footer">
+                    <div class="bannerMd__button">Подробнее</div>
+                    <img class="bannerMd__icon" src="https://www.ekodar.ru/images/banners/kom/ekodar.svg">
+                </div>
+            </div>
+        </a>
+        <br>
+        <a href="https://www.ekodar.ru/" target="_blank" class="bannerSm">
+            <div class="bannerSm__credits">
+                РЕКЛАМА, ООО &laquo;МВК ЭКОДАР&raquo;
+                ИНН 7728607072
+            </div>
+            <div class="bannerSm__info">
+                <img class="bannerSm__logo" src="https://www.ekodar.ru/images/banners/kom/ekodar.svg">
+                <div class="bannerSm__titles">
+                    <div class="bannerSm__title">Очистка воды в&nbsp;частном доме</div>
+                    <div class="bannerSm__title">Анализ воды из&nbsp;скважины</div>
+                    <div class="bannerSm__title">Питьевые фильтры на&nbsp;кухню</div>
+                    <div class="bannerSm__title">Анализ воды из&nbsp;скважины</div>
+                </div>
+                <div class="bannerSm__footer">
+                    <div class="bannerSm__button">Подробнее</div>
+                    <img class="bannerSm__icon" src="https://www.ekodar.ru/images/banners/kom/svm.svg">
+                </div>
+            </div>
+            <div class="bannerSm__picture">
+                <div class="bannerSm__slider">
+                    <img class="bannerSm__image" src="https://www.ekodar.ru/images/banners/kom/slide-sm-01.jpg" alt="Фото монтажа">
+                    <img class="bannerSm__image" src="https://www.ekodar.ru/images/banners/kom/slide-sm-02.jpg" alt="Фото монтажа">
+                    <img class="bannerSm__image" src="https://www.ekodar.ru/images/banners/kom/slide-sm-03.jpg" alt="Фото монтажа">
+                    <img class="bannerSm__image" src="https://www.ekodar.ru/images/banners/kom/slide-sm-04.jpg" alt="Фото монтажа">
+                </div>
+            </div>
+        </a>
+    </div>
 </body>
 </html>
