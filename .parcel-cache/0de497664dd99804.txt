@@ -34,7 +34,7 @@
 62D:\Projects\banner-kom-all\node_modules\parent-module\index.js133523803590783656 0
 83D:\Projects\banner-kom-all\node_modules\css-tree\cjs\syntax\node\MediaCondition.cjs133523803607893648 0
 76D:\Projects\banner-kom-all\node_modules\cosmiconfig\dist\ExplorerSync.js.map133523803599543656 0
-31D:\Projects\banner-kom-all\dist133523852729858705 1
+31D:\Projects\banner-kom-all\dist133523856370461596 1
 44D:\Projects\banner-kom-all\package-lock.json133523803630609895 0
 101D:\Projects\banner-kom-all\node_modules\@msgpackr-extract\msgpackr-extract-win32-x64\node.abi108.node133523803594773665 0
 107D:\Projects\banner-kom-all\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\lexer\index.js133523803607093646 0
@@ -75,7 +75,7 @@
 63D:\Projects\banner-kom-all\node_modules\posthtml-parser\license133523803589813645 0
 59D:\Projects\banner-kom-all\node_modules\is-json\.travis.yml133523803595353659 0
 52D:\Projects\banner-kom-all\node_modules\import-fresh133523803593753679 1
-41D:\Projects\banner-kom-all\src\index.html133523852548689798 0
+41D:\Projects\banner-kom-all\src\index.html133523856305202822 0
 81D:\Projects\banner-kom-all\node_modules\@babel\types\lib\traverse\traverse.js.map133523803610713667 0
 49D:\Projects\banner-kom-all\node_modules\lmdb\util133523803610403645 1
 82D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\requests\DevDepRequest.js133523803606883649 0
@@ -6633,7 +6633,7 @@
 82D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\requests\ConfigRequest.js133523803606353665 0
 81D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\requests\EntryRequest.js133523803607183655 0
 72D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\public\Asset.js133523803601873674 0
-42D:\Projects\banner-kom-all\dist\index.html133523852729838721 0
+42D:\Projects\banner-kom-all\dist\index.html133523856370441619 0
 73D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\public\Config.js133523803606203646 0
 78D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\public\Environment.js133523803607483738 0
 74D:\Projects\banner-kom-all\node_modules\@parcel\core\lib\public\Symbols.js133523803611113682 0
