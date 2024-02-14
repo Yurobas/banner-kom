@@ -1,4 +1,4 @@
-6867
+6870
 66D:\Projects\banner-kom\node_modules\define-data-property\.eslintrc133522868281130531 0
 59D:\Projects\banner-kom\node_modules\semver\classes\range.js133522863098016089 0
 82D:\Projects\banner-kom\node_modules\csso\node_modules\css-tree\lib\walker\index.js133522863104806083 0
@@ -10,7 +10,7 @@
 86D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\css-media-resolution.js133522863104666090 0
 95D:\Projects\banner-kom\node_modules\@parcel\optimizer-svgo\node_modules\css-select\package.json133522863095236080 0
 33D:\Projects\banner-kom\.gitignore133522865287351096 0
-33D:\Projects\banner-kom\src\images133522901974317765 1
+33D:\Projects\banner-kom\src\images133523244215973564 1
 63D:\Projects\banner-kom\node_modules\supports-color\package.json133522863091966080 0
 49D:\Projects\banner-kom\node_modules\clone\LICENSE133522863092016092 0
 117D:\Projects\banner-kom\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\AttributeSelector.js133522863094136081 0
@@ -18,11 +18,6 @@
 66D:\Projects\banner-kom\node_modules\lmdb\dependencies\lmdb-data-v1133522863090246072 1
 35D:\Projects\banner-kom\package.json133522881774199459 0
 59D:\Projects\banner-kom\node_modules\browserslist\index.d.ts133522863094466092 0
-54D:\Projects\banner-kom\node_modules\svgo\lib\parser.js133522863095966090 0
-95D:\Projects\banner-kom\node_modules\@babel\code-frame\node_modules\color-convert\conversions.js133522863091666093 0
-93D:\Projects\banner-kom\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\package.json133522863103116098 0
-46D:\Projects\banner-kom\node_modules\parse-json133522863091826082 1
-46D:\Projects\banner-kom\src\images\slide-05.jpg133522875111256741 0
 70D:\Projects\banner-kom\node_modules\@parcel\optimizer-swc\package.json133522863092276129 0
 62D:\Projects\banner-kom\node_modules\htmlparser2\lib\index.d.ts133522863095326089 0
 26D:\Projects\banner-kom\src133522881703731315 1
@@ -32,7 +27,7 @@
 94D:\Projects\banner-kom\node_modules\csso\node_modules\css-tree\lib\syntax\node\SelectorList.js133522863105586089 0
 57D:\Projects\banner-kom\node_modules\ansi-regex\index.d.ts133522863092426083 0
 85D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\css-relative-colors.js133522863105246080 0
-27D:\Projects\banner-kom\dist133523005834806997 1
+27D:\Projects\banner-kom\dist133523708700519836 1
 54D:\Projects\banner-kom\node_modules\.package-lock.json133522868291140565 0
 61D:\Projects\banner-kom\node_modules\@parcel\codeframe\LICENSE133522863090226104 0
 79D:\Projects\banner-kom\node_modules\@parcel\core\src\TargetDescriptor.schema.js133522863103846088 0
@@ -53,7 +48,7 @@
 68D:\Projects\banner-kom\node_modules\htmlnano\docs\versioned_sidebars133522863099446070 1
 40D:\Projects\banner-kom\node_modules\asap133522868283000558 1
 59D:\Projects\banner-kom\node_modules\is-fullwidth-code-point133522863092326089 1
-37D:\Projects\banner-kom\src\index.html133523005774934624 0
+37D:\Projects\banner-kom\src\index.html133523707965874697 0
 64D:\Projects\banner-kom\node_modules\css-tree\cjs\utils\names.cjs133522863101416079 0
 86D:\Projects\banner-kom\node_modules\htmlnano\lib\modules\removeRedundantAttributes.cjs133522863097016082 0
 58D:\Projects\banner-kom\node_modules\entities\lib\decode.js133522863093256099 0
@@ -72,13 +67,13 @@
 68D:\Projects\banner-kom\node_modules\@swc\helpers\esm\_export_star.js133522863103086169 0
 49D:\Projects\banner-kom\node_modules\jstransformer133522868282230558 1
 67D:\Projects\banner-kom\node_modules\caniuse-lite\data\regions\AT.js133522863098496080 0
-46D:\Projects\banner-kom\src\images\slide-01.jpg133522900791446326 0
+46D:\Projects\banner-kom\src\images\slide-01.jpg133522875111256741 0
 65D:\Projects\banner-kom\node_modules\set-function-length\.eslintrc133522868281140542 0
 52D:\Projects\banner-kom\node_modules\json5\LICENSE.md133522863094956081 0
 44D:\Projects\banner-kom\node_modules\boolbase133522863091206072 1
 62D:\Projects\banner-kom\node_modules\resolve\test\home_paths.js133522868284430535 0
 72D:\Projects\banner-kom\node_modules\csso\node_modules\css-tree\README.md133522863106246093 0
-46D:\Projects\banner-kom\src\images\slide-02.jpg133522901426692945 0
+46D:\Projects\banner-kom\src\images\slide-02.jpg133522901614139794 0
 73D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\css-has.js133522863104256093 0
 56D:\Projects\banner-kom\node_modules\semver\ranges\ltr.js133522863096606076 0
 92D:\Projects\banner-kom\node_modules\@parcel\utils\test\input\sourcemap\referenced-min.js.map133522863102226094 0
@@ -95,13 +90,13 @@
 83D:\Projects\banner-kom\node_modules\@swc\helpers\_\_async_to_generator\package.json133522863104776077 0
 60D:\Projects\banner-kom\node_modules\domhandler\lib\node.d.ts133522863094096087 0
 60D:\Projects\banner-kom\node_modules\lmdb\src\compression.cpp133522863101466100 0
-46D:\Projects\banner-kom\src\images\slide-03.jpg133522901614139794 0
+46D:\Projects\banner-kom\src\images\slide-03.jpg133522901426692945 0
 70D:\Projects\banner-kom\node_modules\lmdb\dependencies\lz4\lib\xxhash.h133522863102796067 0
 48D:\Projects\banner-kom\node_modules\caniuse-lite133522863114366110 1
 61D:\Projects\banner-kom\node_modules\has-symbols\test\index.js133522868282850631 0
 55D:\Projects\banner-kom\node_modules\with\src\globals.ts133522868283750535 0
 86D:\Projects\banner-kom\node_modules\csso\node_modules\css-tree\cjs\syntax\node\CDO.cjs133522863094886081 0
-46D:\Projects\banner-kom\src\images\slide-04.jpg133522901800737210 0
+46D:\Projects\banner-kom\src\images\slide-04.jpg133522900791446326 0
 81D:\Projects\banner-kom\node_modules\css-select\node_modules\entities\lib\index.js133522863096126092 0
 114D:\Projects\banner-kom\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines133522863105276099 1
 49D:\Projects\banner-kom\node_modules\color-convert133522863093256099 1
@@ -159,6 +154,9 @@
 66D:\Projects\banner-kom\node_modules\csso\cjs\restructure\index.cjs133522863097126092 0
 77D:\Projects\banner-kom\node_modules\source-map-js\lib\source-map-generator.js133522863094186080 0
 53D:\Projects\banner-kom\node_modules\@msgpackr-extract133522868287920532 1
+64D:\Projects\banner-kom\node_modules\svgo\plugins\inlineStyles.js133522863099646106 0
+44D:\Projects\banner-kom\node_modules\entities133522863096296110 1
+94D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133522863110806067 0
 64D:\Projects\banner-kom\node_modules\@parcel\workers\src\child.js133522863093546089 0
 52D:\Projects\banner-kom\node_modules\stable\stable.js133522863091916093 0
 44D:\Projects\banner-kom\node_modules\argparse133522863093936096 1
@@ -354,9 +352,6 @@
 56D:\Projects\banner-kom\node_modules\electron-to-chromium133522863095506094 1
 91D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\mdn-text-decoration-style.js133522863110866071 0
 71D:\Projects\banner-kom\node_modules\resolve\test\resolver\browser_field133522868285570547 1
-64D:\Projects\banner-kom\node_modules\svgo\plugins\inlineStyles.js133522863099646106 0
-44D:\Projects\banner-kom\node_modules\entities133522863096296110 1
-94D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\mdn-css-unicode-bidi-isolate.js133522863110806067 0
 99D:\Projects\banner-kom\node_modules\@parcel\optimizer-svgo\node_modules\svgo\plugins\removeXMLNS.js133522863100266073 0
 56D:\Projects\banner-kom\node_modules\path-parse\README.md133522868281890562 0
 61D:\Projects\banner-kom\node_modules\svgo\plugins\prefixIds.js133522863100056084 0
@@ -641,6 +636,10 @@
 42D:\Projects\banner-kom\node_modules\parcel133522863093826091 1
 75D:\Projects\banner-kom\node_modules\constantinople\lib\binaryOperation.d.ts133522868283120552 0
 49D:\Projects\banner-kom\node_modules\parent-module133522863091816074 1
+54D:\Projects\banner-kom\node_modules\svgo\lib\parser.js133522863095966090 0
+95D:\Projects\banner-kom\node_modules\@babel\code-frame\node_modules\color-convert\conversions.js133522863091666093 0
+93D:\Projects\banner-kom\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\package.json133522863103116098 0
+46D:\Projects\banner-kom\node_modules\parse-json133522863091826082 1
 74D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\testfeat.js133522863113186100 0
 46D:\Projects\banner-kom\node_modules\path-parse133522868281790534 1
 92D:\Projects\banner-kom\node_modules\resolve\test\resolver\nested_symlinks\mylib\package.json133522868285690550 0
@@ -1045,11 +1044,11 @@
 77D:\Projects\banner-kom\node_modules\@parcel\core\test\fixtures\common-targets133522863104676086 1
 62D:\Projects\banner-kom\node_modules\set-function-length\env.js133522868282120531 0
 87D:\Projects\banner-kom\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.1133522863096686079 0
-60D:\Projects\banner-kom\node_modules\is-core-module\README.md133522868283200570 0
 64D:\Projects\banner-kom\node_modules\svgo\plugins\minifyStyles.js133522863099846084 0
 75D:\Projects\banner-kom\node_modules\css-tree\cjs\definition-syntax\walk.cjs133522863103046083 0
-67D:\Projects\banner-kom\node_modules\pug-strip-comments\package.json133522868281430535 0
 75D:\Projects\banner-kom\node_modules\csso\node_modules\css-tree\lib\index.js133522863104576079 0
+67D:\Projects\banner-kom\node_modules\pug-strip-comments\package.json133522868281430535 0
+60D:\Projects\banner-kom\node_modules\is-core-module\README.md133522868283200570 0
 76D:\Projects\banner-kom\node_modules\utility-types\dist\aliases-and-guards.js133522863090966080 0
 70D:\Projects\banner-kom\node_modules\css-tree\cjs\syntax\node\Ratio.cjs133522863102046098 0
 80D:\Projects\banner-kom\node_modules\dom-serializer\lib\esm\foreignNames.d.ts.map133522863093926101 0
@@ -4852,6 +4851,8 @@
 79D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\console-basic.js133522863102376076 0
 78D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\console-time.js133522863102406104 0
 71D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\const.js133522863102436097 0
+97D:\Projects\banner-kom\node_modules\@babel\types\lib\builders\typescript\createTSUnionType.js.map133522868284630551 0
+62D:\Projects\banner-kom\node_modules\@trysound\sax\package.json133522863091816074 0
 87D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\constraint-validation.js133522863102486089 0
 62D:\Projects\banner-kom\node_modules\@parcel\core\src\Parcel.js133522863102246088 0
 87D:\Projects\banner-kom\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133522863102546090 0
@@ -5162,8 +5163,6 @@
 89D:\Projects\banner-kom\node_modules\abortcontroller-polyfill\dist\polyfill-patch-fetch.js133522863094006089 0
 77D:\Projects\banner-kom\node_modules\@swc\helpers\src\_array_like_to_array.mjs133522863107886072 0
 49D:\Projects\banner-kom\node_modules\@trysound\sax133522863092216092 1
-97D:\Projects\banner-kom\node_modules\@babel\types\lib\builders\typescript\createTSUnionType.js.map133522868284630551 0
-62D:\Projects\banner-kom\node_modules\@trysound\sax\package.json133522863091816074 0
 59D:\Projects\banner-kom\node_modules\@trysound\sax\README.md133522863092436088 0
 60D:\Projects\banner-kom\node_modules\@trysound\sax\lib\sax.js133522863091226091 0
 60D:\Projects\banner-kom\node_modules\@swc\core-win32-x64-msvc133522863091516103 1
@@ -6275,6 +6274,7 @@
 108D:\Projects\banner-kom\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyAttrs.js133522863099396082 0
 109D:\Projects\banner-kom\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeHiddenElems.js133522863099576086 0
 106D:\Projects\banner-kom\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeMetadata.js133522863099636088 0
+62D:\Projects\banner-kom\dist\banner-kom.59712999.js.map.39348.6133523684315679306 0
 110D:\Projects\banner-kom\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeRasterImages.js133522863099836089 0
 111D:\Projects\banner-kom\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeScriptElement.js133522863099886094 0
 110D:\Projects\banner-kom\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeStyleElement.js133522863099936084 0
@@ -6854,12 +6854,15 @@
 49D:\Projects\banner-kom\node_modules\.bin\svgo.ps1133522863115796077 0
 67D:\Projects\banner-kom\node_modules\.bin\update-browserslist-db.ps1133522863115796077 0
 51D:\Projects\banner-kom\dist\background.4618d3e1.jpg133522980966811228 0
-50D:\Projects\banner-kom\dist\banner-kom.59712999.js133522981216717227 0
+50D:\Projects\banner-kom\dist\banner-kom.59712999.js133523707967404606 0
 57D:\Projects\banner-kom\dist\banner-kom.59712999.js.4804.5133522894561093778 0
-54D:\Projects\banner-kom\dist\banner-kom.59712999.js.map133522981217217225 0
+54D:\Projects\banner-kom\dist\banner-kom.59712999.js.map133523707967464609 0
+62D:\Projects\banner-kom\dist\banner-kom.59712999.js.map.36968.6133523705277726244 0
+62D:\Projects\banner-kom\dist\banner-kom.59712999.js.map.39108.6133523707803862421 0
+62D:\Projects\banner-kom\dist\banner-kom.59712999.js.map.39240.6133523250955586029 0
 50D:\Projects\banner-kom\dist\banner-kom.9cb2a9a4.js133522872422155609 0
 54D:\Projects\banner-kom\dist\banner-kom.9cb2a9a4.js.map133522871690905854 0
-38D:\Projects\banner-kom\dist\index.html133523005834787073 0
+38D:\Projects\banner-kom\dist\index.html133523708700510170 0
 49D:\Projects\banner-kom\dist\slide-01.e8f4c0b5.jpg133522980966831133 0
 49D:\Projects\banner-kom\dist\slide-03.5cb6edad.jpg133522982208609609 0
 49D:\Projects\banner-kom\dist\slide-04.6aae536d.jpg133522982209739608 0
